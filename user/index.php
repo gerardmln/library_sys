@@ -60,7 +60,7 @@ while($row = mysqli_fetch_assoc($view_query)) {
             <td>$db_title</td>
             <td>$db_authors</td>
             <td>$db_pub_date</td>
-            <td>$db_name</td>
+            <td>$db_pub_name</td>
             <td>
                 <a href='Borrow.php?id=$user_id'>Borrow</a>
                 &nbsp;
