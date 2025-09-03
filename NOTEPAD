@@ -1,0 +1,9 @@
+echo $name . "<br>";
+    echo $address . "<br>";
+    echo $email . "<br>";
+
+     
+
+
+    louie@gmail.com
+    louie1234
